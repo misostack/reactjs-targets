@@ -1,5 +1,11 @@
 # Targets
 
+```bash
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+```
+
 ## Requirements
 
 > Create your target: target, actions, duedate, startdate, spentTime, status=new
