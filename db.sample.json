@@ -1,0 +1,40 @@
+{
+  "targets": [
+    {
+      "id": 1,
+      "title": "Learn ReactJS Fundamentals",
+      "description":"Learn enough to use",
+      "labels": [
+        {
+          "id": 1,
+          "title": "career",
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Learn ReactJS Intermediate",
+      "description":"Practice enough to work",
+      "labels": [
+        {
+          "id": 1,
+          "title": "career",
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Learn ReactJS Advanced",
+      "description":"Research enough to organize and speed up your work",
+      "labels": [
+        {
+          "id": 1,
+          "title": "career",
+          "color": "#FF0000"
+        }
+      ]
+    }        
+  ]
+}

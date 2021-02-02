@@ -21,13 +21,59 @@ git branch -u origin/main main
 
 ### Exercise 001
 
-1. Clean up default setup of react js app
-2. Create your first SPA component
-3. Component, props vs state
-4. Life cycle
-5. Forms & Events
-6. Built-in UI Components
-7. State sharing between components
-8. Multipage
-9. Target CRUD
-10. Deploy on Firebase
+> Targets
+
+```javascript
+const target = {
+  id: 1,
+  title: "Learn ReactJS Fundamentals",
+  description: `
+    0. Create new app
+    1. JSX
+    2. Display components with props
+    3. Component State
+    4. LifeCycle
+    5. Conditional rendering
+    6. Lists and Keys
+    7. Forms
+    8. Lifting State Up
+    9. Composition vs Interitance
+    10. Thinking in React
+  `,
+  labels: [
+    {
+      id: 1,
+      title: "career",
+    },
+  ],
+};
+
+const label = {
+  id: 1,
+  title: "career",
+  color: "#ff0000",
+};
+```
+
+> Todo
+
+- [ ] Nav
+
+### Main Resources
+
+> 1. PropTypes
+
+- https://reactjs.org/docs/typechecking-with-proptypes.html
+- https://github.com/facebook/prop-types
+
+### Resources
+
+> 1. Drag&Drop
+
+- https://codepen.io/alexreardon/project/editor/ZyNMPo
+- https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/about/installation.md
+
+> 2. Feather Icons
+
+- https://feathericons.com/
+- https://github.com/feathericons/react-feather
