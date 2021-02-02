@@ -137,7 +137,7 @@ class Sidebar extends PureComponent {
           <li className="nav-item">
             <a
               className={
-                "nav-link" + (activeItem == item.href ? " active" : "")
+                "nav-link" + (activeItem === item.href ? " active" : "")
               }
               href={item.href}
             >

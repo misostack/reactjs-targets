@@ -59,6 +59,11 @@ const label = {
 
 - [ ] Nav
 
+> DevHost
+
+- https://js-academy-35af4.web.app/
+- https://js-academy-35af4.firebaseapp.com/
+
 ### Main Resources
 
 > 1. PropTypes
