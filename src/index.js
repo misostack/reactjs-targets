@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
-import "feather-icons/dist/feather.min";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
